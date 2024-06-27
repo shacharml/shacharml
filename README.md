@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shacharml
 - 👀 I’m interested in Software development, Android Mobile Developer
-- 🌱 I’m currently learning Bachelor's degree in Software Engineering
+- 🌱 I’m a Software Engineering
 - 📫 How to reach me shacharml611@gmail.com or on LinkedIn Shachar Males
 
 
